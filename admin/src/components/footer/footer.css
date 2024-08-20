@@ -1,0 +1,7 @@
+.footer {
+  background-color: #f5f5f5;
+}
+.footer .footer__text {
+  text-align: center;
+  padding: 20px 0;
+}
